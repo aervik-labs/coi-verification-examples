@@ -1,3 +1,10 @@
+> **Moved.** Current examples for the COI / ACORD 25 Verification API live in
+> [aervik-labs/aervik-api](https://github.com/aervik-labs/aervik-api), with the OpenAPI document,
+> the docs and a Postman collection:
+> [`examples/coi-verification/`](https://github.com/aervik-labs/aervik-api/tree/main/examples/coi-verification).
+> This repository is archived. The code below is kept for history, is not maintained, and predates
+> the current response shape -- do not build on it.
+
 # COI / ACORD 25 Compliance Verification API — Quickstart
 
 Every general contractor, property manager, and franchisor deals with the same recurring
